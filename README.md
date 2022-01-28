@@ -1,5 +1,7 @@
 # Import-two
 
+Caleb Vang, I just combined AWS Cloud9 and Github to create a full IDE solution.
+
 Instructions:
 1. Clone This repository into an AWS cloud9 instance (You will need to create a new environment)
 2. Once you have cloned this repository, you will need to modify the read.md file in two ways: Write your full name. Then write the following sentence "I just combined AWS Cloud9 and Github to create a full IDE solution.
